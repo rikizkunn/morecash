@@ -1,0 +1,2 @@
+# morecash
+Bot MoreCash
