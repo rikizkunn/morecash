@@ -1,2 +1,4 @@
 # morecash
-Bot MoreCash
+
+//edit file config.php simpen kode reff lo disitu
+
